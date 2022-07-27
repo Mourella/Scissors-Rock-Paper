@@ -4,7 +4,7 @@ Il gioco proprosto è stato scritto in Java ed è un codice estendibile a divers
 
 # Modalità
 Il gioco permette di giocare contro il computer oppure di simulare una partita computer vs computer.
-Nella schermata Home: 
+Nella schermata Home
 ![image](https://user-images.githubusercontent.com/49978893/181256302-859a0129-f085-43df-9fcd-e7800b956cb6.png)
 Sono presenti due modalità:
 - Classica che comprende le mosse CARTA-FORBICI-SASSO
@@ -15,9 +15,10 @@ Sono presenti due modalità:
 La partita è esclusivamente 1 vs 1.
 Il primo giocatore che arriva a 10, vince il game. A questo punto il player viene messo davanti una scelta:
 - Terminare la partita
-- Ricominciare la partita e procedere con il secondo game-
-Non ci sono limiti di game, per cui il giocatore una volta finito un game può giocare altri game.
-Le regole di ogni modalità le troviamo una volta entrati in partita, nel bottone in alto a destra: ![image](https://user-images.githubusercontent.com/49978893/181257211-f2b0174c-d1dd-4527-b72e-9b7535465d17.png)
+- Ricominciare la partita e procedere con il secondo game
+- Non ci sono limiti di game, per cui il giocatore una volta finito un game può giocare altri game.
+- Le regole di ogni modalità le troviamo una volta entrati in partita, nel bottone in alto a destra: ![image](https://user-images.githubusercontent.com/49978893/181257211-f2b0174c-d1dd-4527-b72e-9b7535465d17.png)
+
 
 
 # Classica
