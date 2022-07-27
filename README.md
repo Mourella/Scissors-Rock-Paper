@@ -8,7 +8,8 @@ Nella schermata Home:
 ![image](https://user-images.githubusercontent.com/49978893/181256302-859a0129-f085-43df-9fcd-e7800b956cb6.png)
 Sono presenti due modalità:
 - Classica che comprende le mosse CARTA-FORBICI-SASSO
-- Spock-Lizard che comprende le mosse CARTA-FORBICI-SASSO
+- Spock-Lizard che comprende le mosse CARTA-FORBICI-SASSO-SPOCK-LIZARD
+(per maggiori info ->https://www.youtube.com/watch?v=_PUEoDYpUyQ&t=2s)
 
 # Partita
 La partita è esclusivamente 1 vs 1.
