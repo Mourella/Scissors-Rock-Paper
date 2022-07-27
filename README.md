@@ -17,7 +17,8 @@ Il primo giocatore che arriva a 10, vince il game. A questo punto il player vien
 - Terminare la partita
 - Ricominciare la partita e procedere con il secondo game
 - Non ci sono limiti di game, per cui il giocatore una volta finito un game può giocare altri game.
-- Le regole di ogni modalità le troviamo una volta entrati in partita, nel bottone in alto a destra: ![image](https://user-images.githubusercontent.com/49978893/181257211-f2b0174c-d1dd-4527-b72e-9b7535465d17.png)
+- Le regole di ogni modalità le troviamo una volta entrati in partita, nel bottone in alto a destra: ->
+![image](https://user-images.githubusercontent.com/49978893/181257211-f2b0174c-d1dd-4527-b72e-9b7535465d17.png)
 
 
 
